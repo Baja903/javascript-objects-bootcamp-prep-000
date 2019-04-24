@@ -1,1 +1,2 @@
-Object.assign ({playlist: "3"})
+var music = { album: 'playlist' };
+
