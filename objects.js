@@ -1,2 +1,2 @@
-var music = { album: "playlist" };
+var playlist = { album: "playlist" };
 
