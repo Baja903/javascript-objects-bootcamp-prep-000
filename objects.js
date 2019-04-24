@@ -1,1 +1,1 @@
-Object.assign ({playlist: 3})
+Object.assign ({playlist: "3"})
